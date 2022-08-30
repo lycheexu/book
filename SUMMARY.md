@@ -1,6 +1,7 @@
-# 三天入门 Web3.0 
+# Table of contents
+
 * [三天入门 Web3.0](README.md)
-* Web3 简介
+* [Web3 简介](web3-jian-jie/README.md)
   * [1. Web1,Web2,Web3简介](chapters/web3/1.md)
   * [2. Web3基本概念](chapters/web3/2.md)
   * [3. Web3究竟解决什么问题](chapters/web3/3.md)
@@ -9,15 +10,10 @@
   * [6. 如何少付铸造费（Gas Fee)](chapters/web3/6.md)
   * [7. 区块链类型介绍](chapters/web3/7.md)
   * [8. Web3进入建议](chapters/web3/8.md)
-* NFT 简介
+* [NFT 简介](nft-jian-jie/README.md)
   * [1. 什么是NFT](chapters/NFT/1.md)
   * [2. 为什么要购买NFT](chapters/NFT/2.md)
   * [3. 如何寻找评估NFT项目](chapters/NFT/3.md)
   * [4. 铸造NFT秘籍](chapters/NFT/4.md)
   * [5. 购买NFT攻略](chapters/NFT/5.md)
   * [6. 售卖NFT技巧](chapters/NFT/6.md)
-
-  
-  
-
-
