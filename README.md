@@ -1,14 +1,16 @@
-# 三天入门web3
+# 三天入门 Web3.0
+
 ### 本书简介
-三天入门web3介绍了进入Web3世界所需的最基本的知识，无晦涩枯燥原理描述，帮助大家用碎片化时间系统化了解Web3。本书目前涉及Web3及NFT简介，后期会持续更新Gamefi、Socialfi及Dao部分，感兴趣朋友可先关注相关视频。
+
+<figure><img src=".gitbook/assets/cover.png" alt=""><figcaption></figcaption></figure>
+
+《三天入门web3.0》介绍了进入Web3世界所需的最基本的知识，无晦涩枯燥原理描述，帮助大家用碎片化时间系统化了解Web3。本书目前涉及Web3及NFT简介，后期会持续更新Gamefi、Socialfi及Dao部分，感兴趣朋友可先关注相关视频。
 
 学完本书后，你将收获：
 
-1.	了解Web3世界里最基本概念如区块链、以太坊及NFT
-
-2.	如何创建自己的钱包，避免钱包骗局，节省铸造费
-
-3.	如何用寻找NFT潜力项目并择时购买
+1. 了解Web3世界里最基本概念如区块链、以太坊及NFT
+2. 如何创建自己的钱包，避免钱包骗局，节省铸造费
+3. 如何用寻找NFT潜力项目并择时购买
 
 Web3学习是一个自下而上的过程，不建议各位初期深纠原理概念，简单了解就好，从项目入手，自然而然就融会贯通。
 
@@ -28,8 +30,7 @@ Youtube: PlanetChat Dao https://www.youtube.com/channel/UCsoaFGTim2CGWk8b0LM1P9Q
 
 欢迎添加宇星人微信，交流学习合作
 
-<img src='chapters/宇星人二维码.png' width='200' display=centre>
-
+![](chapters/宇星人二维码.png)
 
 ### PlanetChat Dao愿景
 
